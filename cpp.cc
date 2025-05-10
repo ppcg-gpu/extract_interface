@@ -36,7 +36,7 @@
 #include <vector>
 
 #include "cpp.h"
-#include "isl_config.h"
+#include "config.h"
 
 /* Determine the isl types from which the given class can be implicitly
  * constructed using a unary constructor.

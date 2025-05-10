@@ -31,7 +31,7 @@
  * Sven Verdoolaege.
  */ 
 
-#include "isl_config.h"
+#include "config.h"
 
 #include <stdarg.h>
 #include <stdio.h>

@@ -39,7 +39,7 @@
 #include <clang/AST/Attr.h>
 #include <clang/Basic/SourceManager.h>
 
-#include "isl_config.h"
+#include "config.h"
 #include "extract_interface.h"
 #include "generator.h"
 

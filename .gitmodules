@@ -1,0 +1,3 @@
+[submodule "ThirdParty/clang_feature_tests"]
+	path = ThirdParty/clang_feature_tests
+	url = https://github.com/ppcg-gpu/clang_feature_tests.git

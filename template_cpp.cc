@@ -42,7 +42,7 @@
 #include <unordered_set>
 
 #include "template_cpp.h"
-#include "isl_config.h"
+#include "config.h"
 
 /* The textual representation of this tuple kind.
  *
